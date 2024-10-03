@@ -80,6 +80,7 @@
 
 <h3 align="left">📊 GitHub Status:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayCCCCCC&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="KayCCCCCC" />
+<img src="https://github-readme-stats.vercel.app/api?username=KayCCCCCC&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical" alt="KayCCCCCC" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KayCCCCCC&show_icons=true&locale=en&layout=compact&hide=css,ejs,scss&langs_count=10&theme=radical" alt="Top Languages" />
 </p>
